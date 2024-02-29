@@ -1,0 +1,14 @@
+{
+    "name": "logger",
+    "version": "1.0.0",
+    "description": "Simple logging functionality for Node.js applications",
+    "main": "index.js",
+    "keywords": [
+        "logging",
+        "logger",
+        "winston",
+        "npm"
+    ],
+    "author": "abhikk",
+    "license": "MIT"
+}
